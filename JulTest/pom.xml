@@ -40,6 +40,7 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		<!-- These 2 jars are not easily available on net so need to add manually -->
 		<!-- <dependency>
 			<groupId>log4j</groupId>
 			<artifactId>apache-log4j-component</artifactId>
